@@ -12,12 +12,7 @@
     var(--color-primary-dark) 100%
   );
   border-radius: 16px;
-  transition: transform 0.3s;
   overflow: hidden;
-
-  &:hover {
-    transform: scale(1.05);
-  }
 
   &__image {
     position: absolute;
